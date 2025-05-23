@@ -1,6 +1,13 @@
 # reTracker
 
-![reTracker Logo](https://github.com/user-attachments/assets/3402207c-4d9c-4572-a392-c4c9994816e1)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/imnexerio/retracker/main/public-portfolio/preview.png" alt="Dashboard Preview" width="90%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/imnexerio/retracker/main/public-portfolio/preview.gif" alt="Dashboard Preview" width="90%" />
+</div>
+
 
 A Flutter-based task scheduling application integrated with Firebase for secure data storage and authentication.
 
