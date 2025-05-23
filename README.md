@@ -3,6 +3,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/imnexerio/retracker/main/public-portfolio/preview.png" alt="Dashboard Preview" width="90%" />
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/imnexerio/retracker/main/public-portfolio/preview1.png" alt="Dashboard Preview" width="90%" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/imnexerio/retracker/main/public-portfolio/preview.gif" alt="Dashboard Preview" width="90%" />
